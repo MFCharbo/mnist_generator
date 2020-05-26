@@ -1,0 +1,6 @@
+.fashion.table {
+    display:flex;
+    flex-wrap: wrap;
+    align-content:stretch;
+    background-color: darkgray;;
+}
